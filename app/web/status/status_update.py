@@ -1,5 +1,6 @@
 from typing import Optional, List
 
+
 from sentry_sdk import capture_exception, capture_message
 
 import requests
